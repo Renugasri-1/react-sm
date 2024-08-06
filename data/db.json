@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First pic",
+      "datetime": "july 16,2021 11:34:23 AM",
+      "body": "hello everyone!"
+    },
+    {
+      "id": "2",
+      "title": "Second pic",
+      "datetime": "july 16,2021 11:34:23 AM",
+      "body": "hey! this is maddy"
+    },
+    {
+      "id": "3",
+      "title": "Third pic",
+      "datetime": "july 16,2021 11:34:23 AM",
+      "body": "Amazing architecture of india!"
+    },
+    {
+      "id": "4",
+      "title": "Fourth pic",
+      "datetime": "july 16,2021 11:34:23 AM",
+      "body": "Beautiful view!"
+    },
+    {
+      "id": "41",
+      "title": "Thankyounote",
+      "datetime": "July 20, 2024 9:16:50 PM",
+      "body": "Thankyou dear,for the wonderful progress...."
+    }
+  ]
+}
